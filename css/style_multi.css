@@ -393,7 +393,7 @@ nav{
 }
 
 .single_gallery:hover{
-    flex: 1 1 19%;
+    flex: 1 1 13%;
 }
 .gallery_layer{
     position: absolute;
